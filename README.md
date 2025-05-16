@@ -44,9 +44,7 @@ A simple, user-friendly desktop application to merge and split PDF files using P
 ```
 PDF_Merger_Splitter/
 │
-├── assets/
-│   └── icon.ico
-│   └── app
+├── README.md
 ├── main.py
 ├── gui.py
 ├── merger.py
